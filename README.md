@@ -69,6 +69,13 @@ A task manager app to add, delete, and reorder tasks for better productivity.
 
 ---
 
+📌 Tech Stack
+React.js
+CSS3
+JavaScript (ES6+)
+
+---
+
 ## 🛠️ Installation & Usage
 ```bash
 # Clone the repository
@@ -82,3 +89,4 @@ npm install
 
 # Run the app
 npm start
+
